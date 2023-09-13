@@ -1,4 +1,4 @@
-# myfistBOT
+# myfirstBOT
 def bot(name,age,question):
 	print('Вас зовут:', name)
 	print('Вам уже', str(age), 'лет', ',круто!')
